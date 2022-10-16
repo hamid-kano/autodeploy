@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/hamidkano/public_html/auto111
+    - export DEPLOYPATH=/home/hamidkano/public_html/auto222
     - /bin/cp -R * $DEPLOYPATH
